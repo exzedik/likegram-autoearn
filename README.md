@@ -15,4 +15,5 @@ I plan on updating the script on release of the like feature.
 I didn't really plan to publish this script as first, but since the LikeGram team made it almost impossible to reach the withdrawal limit by hand and included other sneaky stuff, I chose to do so.
 
 **This script will by no means make you lots of money. My main reason behind creating this was to see if this site is a scam or not.**
+
 ![Screenshot](https://media.discordapp.net/attachments/808273939629473796/886915120826036264/lgbot.png)
